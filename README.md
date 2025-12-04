@@ -1,3 +1,3 @@
 # bernalillo-progress-report
-Devanae test for bernalillo ayyeee
+Devanae test
 Devanae's secont test from git heyyy
